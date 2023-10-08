@@ -38,6 +38,9 @@ body{
     color: white;
     border-radius: 10px;
     border: 2px solid lightgreen;
+    font-size: 30px;
+    line-height: 60px;
+    overflow: hidden;
 }
 
 .botao{
