@@ -7,6 +7,7 @@
 
 body{
     background-image: linear-gradient(45deg, black 10%, #7700FF, #D700FF, black);
+    background-attachment: fixed;
 }
 
 .fundo{
@@ -60,4 +61,20 @@ body{
 
 .botao:active{
     transform: scale(0.9);
+}
+
+footer{
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-top: 2px solid rgb(162, 0, 255);
+}
+
+footer a{
+    color: white;
 }
