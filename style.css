@@ -11,7 +11,7 @@ body{
 }
 
 .fundo{
-    height: 100vh;
+    height: 98vh;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -77,5 +77,4 @@ footer{
 
 footer a{
     color: white;
-    height: 100%;
 }
